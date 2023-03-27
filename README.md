@@ -11,3 +11,5 @@ INO File: This file contains the Arduino code for the hardware component of the 
 Schematic Diagram: A visual representation of the hardware connections and components is provided as an image file, offering a clear understanding of how the hardware is set up.
 
 APK File: This Android app installer package allows you to directly install and test the app on your Android device, simplifying the process of evaluating the app's performance and functionality.
+
+Blocks.png: This image file contains a visual representation of the block code used in MIT App Inventor, helping you better understand the logic and flow of the app's functionality.
